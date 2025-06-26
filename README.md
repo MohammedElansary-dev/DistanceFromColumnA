@@ -24,6 +24,9 @@ Every time the user changes selection in any sheet:
 2. It shows this distance as: `"Distance from Column A: X"` in the status bar.
 3. If something goes wrong, it clears the status bar to prevent clutter.
 
+
+![image](https://github.com/user-attachments/assets/f887ec9d-2811-4d48-91c0-42e095b39cc5)
+
 ---
 
 ## 📂 Setup Instructions
@@ -86,3 +89,4 @@ MIT License — use freely, contribute back if helpful 💙
 Created by Mohamed El-ansary. This tool was built to simplify Excel workflows and boost daily productivity.
 
 ---
+
