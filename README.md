@@ -13,6 +13,7 @@ Useful for:
 * 🧾 Quickly identifying how deep into the sheet a value lies
 * 🔍 Debugging templates or formulas involving column offsets
 * 📐 Understanding horizontal structure in wide sheets
+* 📏 Good for vloockup and other functions that uses it
 
 ---
 
@@ -25,7 +26,8 @@ Every time the user changes selection in any sheet:
 3. If something goes wrong, it clears the status bar to prevent clutter.
 
 
-![image](https://github.com/user-attachments/assets/f887ec9d-2811-4d48-91c0-42e095b39cc5)
+![image](https://github.com/user-attachments/assets/4d5bc8fb-43e8-4c44-aef1-4b3f9cc1bb55)
+
 
 ---
 
